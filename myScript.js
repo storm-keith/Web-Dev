@@ -2,6 +2,11 @@
 //     document.getElementById("demo").innerHTML="Paragraphed changed";
 // }
 
+
+
+
+
+// ---------------------------------EXERCISE 1.1-------------------------------------------------//
 function addBy(){
     num1 = parseFloat(document.getElementById("num1").value);
     num2 = parseFloat(document.getElementById("num2").value);
@@ -32,3 +37,11 @@ function divideBy(){
 function resetBy(){
     
 }
+
+
+
+
+
+
+
+
